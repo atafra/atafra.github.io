@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: PhD, Computer Science
+  uni: Babeș-Bolyai University
+  year: 2010 &mdash; 2013
+  summary: | 
+    Thesis: High-Performance Ray Tracing on Modern Parallel Processors<br />
+    <i>Double degree with Budapest University of Technology</i>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: MSc, Computer Science
+  uni: Babeș-Bolyai University
+  year: 2008 &mdash; 2010
+  summary: |
+    Thesis: Real-Time Ray Tracing of Massive Models
+
+- degree: BSc, Computer Science
+  uni: Babeș-Bolyai University
+  year: 2005 &mdash; 2008
+  summary: |
+    Thesis: Video Processing with the GPU

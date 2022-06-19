@@ -1,0 +1,67 @@
+- title: "Practical Machine Learning for Rendering: From Research to Deployment"
+  publication: SIGGRAPH 2021 Courses
+  year: Aug 2021
+  description: Carl S. Marshall, Deepak S. Vembar, Sujoy Ganguly, <b>Attila T. Áfra</b>, Florent Guinier
+  links: <a href="https://dl.acm.org/doi/abs/10.1145/3450508.3464564">Course</a>
+
+- title: Digesting the Elephant &mdash; Experiences with Interactive Production Quality Path Tracing of the Moana Island Scene
+  publication: <a href="https://arxiv.org/abs/2001.02620">arXiv</a>
+  year: Jan 2020
+  description: Ingo Wald, Bruce Cherniak, Will Usher, Carson Brownlee, <b>Attila Áfra</b>, Johannes Guenther, Jefferson Amstutz, Tim Rowley, Valerio Pascucci, Chris R. Johnson, Jim Jeffers
+  links: <a href="https://arxiv.org/pdf/2001.02620">Paper</a> &bull; <a href="publications/Wald2020Moana.bib">BibTeX</a>
+
+- title: Compressed-Leaf Bounding Volume Hierarchies
+  publication: High-Performance Graphics
+  year: Aug 2018
+  description: Carsten Benthin, Ingo Wald, Sven Woop, <b>Attila T. Áfra</b>
+  links: <a href="publications/Benthin2018Compressed.pdf">Paper</a> &bull; <a href="publications/Benthin2018Compressed.bib">BibTeX</a>
+
+- title: Improved Two-Level BVHs using Partial Re-Braiding
+  publication: High-Performance Graphics
+  year: Jul 2017
+  description: Carsten Benthin, Sven Woop, Ingo Wald, <b>Attila T. Áfra</b>
+  links: <a href="publications/Benthin2017Rebraiding.pdf">Paper</a> &bull; <a href="publications/Benthin2017Rebraiding-slides.pdf">Slides</a> &bull; <a href="publications/Benthin2017Rebraiding.bib">BibTeX</a>
+
+- title: "STBVH: A Spatial-Temporal BVH for Efficient Multi-Segment Motion Blur"
+  publication: High-Performance Graphics
+  year: Jul 2017
+  description: Sven Woop, <b>Attila T. Áfra</b>, Carsten Benthin
+  links: <a href="publications/Woop2017STBVH.pdf">Paper</a> &bull; <a href="publications/Woop2017STBVH-slides.pdf">Slides</a> &bull; <a href="publications/Woop2017STBVH.bib">BibTeX</a>
+
+- title: "Embree Ray Tracing Kernels: Overview and New Features"
+  publication: SIGGRAPH 2016 Talks
+  year: Jul 2016
+  description: <b>Attila T. Áfra</b>, Ingo Wald, Carsten Benthin, Sven Woop
+  links: <a href="publications/Afra2016Embree.pdf">Paper</a> &bull; <a href="publications/Afra2016Embree-slides.pdf">Slides</a> &bull; <a href="publications/Afra2016Embree.bib">BibTeX</a>
+
+- title: Local Shading Coherence Extraction for SIMD-Efficient Path Tracing on CPUs
+  publication: High-Performance Graphics
+  year: Jun 2016
+  description: <b>Attila T. Áfra</b>, Carsten Benthin, Ingo Wald, Jacob Munkberg
+  links: <a href="publications/Afra2016Shading.pdf">Paper</a> &bull; <a href="publications/Afra2016Shading-slides.pdf">Slides</a> &bull; <a href="publications/Afra2016Shading.bib">BibTeX</a>
+
+- title: Stackless Multi-BVH Traversal for CPU, MIC and GPU Ray Tracing
+  publication: Computer Graphics Forum (EGSR)
+  year: Nov 2013
+  description: <b>Attila T. Áfra</b>, László Szirmay-Kalos
+  links: <a href="publications/Afra2013Stackless.pdf">Paper</a> &bull; <a href="publications/Afra2013Stackless-slides.pdf">Slides</a> &bull; <a href="publications/Afra2013Stackless-poster.pdf">Poster</a> &bull; <a href="publications/Afra2013Stackless.bib">BibTeX</a>
+
+- title: Faster Incoherent Ray Traversal Using 8-Wide AVX Instructions
+  publication: Technical Report
+  year: Aug 2013
+  links: <a href="publications/Afra2013Incoherent.pdf">Paper</a> &bull; <a href="publications/Afra2013Incoherent.bib">BibTeX</a>
+
+- title: Incoherent Ray Tracing without Acceleration Structures
+  publication: Eurographics 2012
+  year: May 2012
+  links: <a href="publications/Afra2012DACRT.pdf">Paper</a> &bull; <a href="publications/Afra2012DACRT-slides.pdf">Slides</a> &bull; <a href="publications/Afra2012DACRT.bib">BibTeX</a>
+
+- title: Interactive Ray Tracing of Large Models Using Voxel Hierarchies
+  publication: Computer Graphics Forum (Eurographics 2013)
+  year: Jan 2012
+  links: <a href="publications/Afra2012VoxLOD.pdf">Paper</a> &bull; <a href="publications/Afra2012VoxLOD-slides.pptx">Slides</a> &bull; <a href="https://www.youtube.com/watch?v=1IwtKLtYc9M">Video 1</a> &bull; <a href="https://www.youtube.com/watch?v=oOfV0vGurRM">Video 2</a> &bull; <a href="publications/Afra2012VoxLOD.bib">BibTeX</a>
+
+- title: Improving BVH Ray Tracing Speed Using the AVX Instruction Set
+  publication: Eurographics 2011
+  year: Apr 2011
+  links: <a href="publications/Afra2011AVX.pdf">Paper</a> &bull; <a href="publications/Afra2011AVX-poster.pdf">Poster</a>
