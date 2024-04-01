@@ -1,7 +1,7 @@
 # Jobs
 - company: Intel Corporation
-  position: Ray Tracing Software Engineer
-  duration: Aug 2015 &mdash; Present
+  position: Principal Engineer
+  duration: Apr 2024 &mdash; Present
   summary: |
     <a href="https://www.openimagedenoise.org">Intel® Open Image Denoise</a> &mdash; Creator and Tech Lead<br /><br />
     Previous projects:
@@ -9,6 +9,10 @@
       <li><a href="https://www.embree.org">Intel® Embree</a> &mdash; Developer</li>
       <li><a href="https://www.ospray.org">Intel® OSPRay</a> &mdash; Developer</li>
     </ul>
+
+- company: Intel Corporation
+  position: Ray Tracing Software Engineer
+  duration: Aug 2015 &mdash; Mar 2024
 
 - company: Intel Corporation
   position: Rendering Intern
